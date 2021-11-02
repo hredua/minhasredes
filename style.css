@@ -44,6 +44,7 @@ main {
 #perfil {
     display: flex;
     text-align: justify;
+    align-items: center;
 }
 
 .countainer {
@@ -55,5 +56,4 @@ main {
 
 .item {
     padding: 5px;
-    margin: 5px 0;
 }

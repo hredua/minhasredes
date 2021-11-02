@@ -46,10 +46,16 @@ main {
     text-align: justify;
 }
 
-ul {
-    text-align: left;
+.countainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
 
+.item {
+    padding: 5px;
+    margin: 5px 0;
+}
 
 a {
     color: #0163C2;

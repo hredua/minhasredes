@@ -50,23 +50,10 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+    align-items: center;
 }
 
 .item {
     padding: 5px;
     margin: 5px 0;
-}
-
-a {
-    color: #0163C2;
-    text-decoration: none;
-    font-weight: bold;
-}
-a:visited {
-    color: #AF5D63;
-}
-
-a:hover {
-    color: black;
-    text-decoration: underline;
 }
